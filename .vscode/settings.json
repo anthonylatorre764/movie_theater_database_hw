@@ -1,0 +1,24 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "li2283-18.members.linode.com",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "SQL_Day_1_hw",
+            "database": "test_db",
+            "username": "postgres",
+            "password": "CodingTemple4L.."
+        },
+        {
+            "previewLimit": 50,
+            "server": "drona.db.elephantsql.com",
+            "driver": "PostgreSQL",
+            "name": "Movie Theater",
+            "database": "etbyegpf",
+            "username": "etbyegpf",
+            "password": "GK9iflttwENwk0JjTWbEEz386HxXv9w7",
+            "connectString": "postgres://etbyegpf:GK9iflttwENwk0JjTWbEEz386HxXv9w7@drona.db.elephantsql.com/etbyegpf"
+        }
+    ]
+}
